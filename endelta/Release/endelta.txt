@@ -1,0 +1,7 @@
+-*-  EnDelta  *  (c)  Gazlan,  2018  -*-
+
+Use Delta modulation
+
+Usage: endelta.com victim
+
+complains_n_suggestions direct to gazlan@yandex.ru

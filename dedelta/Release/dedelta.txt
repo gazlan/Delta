@@ -1,0 +1,7 @@
+-*-  DeDelta  *  (c)  Gazlan,  2018  -*-
+
+Restore from Delta modulation
+
+Usage: dedelta.com victim
+
+complains_n_suggestions direct to gazlan@yandex.ru
